@@ -1,0 +1,26 @@
+.section {
+  padding: 12rem 3rem;
+  background-color: #111;
+}
+
+.container {
+  color: #aaa;
+  max-width: 120rem;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.container h1 {
+  font-size: 6rem;
+
+  /* text-transform: uppercase; */
+  color: #9b3922;
+  letter-spacing: 0.5rem;
+  line-height: 1;
+  margin-bottom: 4.8rem;
+}
+
+.container ul {
+  border-top: solid #9b3922 2px;
+  list-style: none;
+}
